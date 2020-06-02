@@ -1,0 +1,7 @@
+# Dependency directories
+server/node_modules/
+server/package-lock.json
+
+# Environmental variables
+server/.env
+
